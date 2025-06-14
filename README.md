@@ -5,11 +5,14 @@ I'm excited to share that I've built a fully functional Weather Application usin
 
 🔧 Tech Stack Used:
 
-HTML & CSS for structure and design
+ •HTML & CSS for structure and design
 
-JavaScript for logic and interactivity
+ •JavaScript for logic and interactivity
 
-Weather API for live data integration
+ •Weather API for live data integration
 
-
+In Light Mode
 ![image](https://github.com/BinaySharma25/Weather-App/blob/main/images/Weather-Light.png?raw=true)
+
+In Dark Mode
+![image](}
