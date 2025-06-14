@@ -12,4 +12,4 @@ JavaScript for logic and interactivity
 Weather API for live data integration
 
 
-![image]()
+![image](https://github.com/BinaySharma25/Weather-App/blob/main/images/Weather-Light.png?raw=true)
